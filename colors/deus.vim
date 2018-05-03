@@ -1185,7 +1185,7 @@ endfunction
 hi! link SignColumn LineNr
     hi! VertSplit guibg=#242a32
     hi! StatusLine guifg=#242a32 guibg=#ebdab2
-    hi! StatusLineNC guifg=#242a32 guibg=#ebdab2
+    hi! StatusLineNC guifg=DarkOrange guibg=DarkOrange
     hi! CursorLineNr guibg=#242a32 guifg=#ebdab2
 
     hi! SignColumn guibg=#242a32
